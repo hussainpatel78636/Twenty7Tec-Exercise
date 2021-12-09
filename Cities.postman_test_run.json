@@ -1,0 +1,353 @@
+{
+	"id": "0ab6998c-07b3-4aee-bcda-ea0533e2127a",
+	"name": "Cities",
+	"timestamp": "2021-12-09T21:28:22.263Z",
+	"collection_id": "18715151-3f6e83a8-b2cc-4f4f-8ff4-63329934eff4",
+	"folder_id": 0,
+	"environment_id": "1c1fcdcc-eca2-4c7c-b109-66b18418e3af",
+	"totalPass": 35,
+	"totalFail": 0,
+	"results": [
+		{
+			"id": "6d54bf61-08bb-4ed8-87c2-c8ebabf83878",
+			"name": "London, GB",
+			"url": "https://api.openweathermap.org/data/2.5/weather?id=2643743&appid=9d50450a48809637b4862bdcb125927d&units=metric&lang=en",
+			"time": 374,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Correct information, test passed": true,
+				"City: London, GB": true,
+				"Current Temperature: 7.53 degree Celcius": true,
+				"Humidity: 92%": true,
+				"Description: overcast clouds": true,
+				"Minimum Temperature: 5.87 degree Celcius": true,
+				"Maximum Temperature: 9.03 degree Celcius": true
+			},
+			"testPassFailCounts": {
+				"Correct information, test passed": {
+					"pass": 1,
+					"fail": 0
+				},
+				"City: London, GB": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Current Temperature: 7.53 degree Celcius": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Humidity: 92%": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Description: overcast clouds": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Minimum Temperature: 5.87 degree Celcius": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Maximum Temperature: 9.03 degree Celcius": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				374
+			],
+			"allTests": [
+				{
+					"Correct information, test passed": true,
+					"City: London, GB": true,
+					"Current Temperature: 7.53 degree Celcius": true,
+					"Humidity: 92%": true,
+					"Description: overcast clouds": true,
+					"Minimum Temperature: 5.87 degree Celcius": true,
+					"Maximum Temperature: 9.03 degree Celcius": true
+				}
+			]
+		},
+		{
+			"id": "2309368d-b4da-4bae-9d33-4c7fa45eca5f",
+			"name": "Paris, FR",
+			"url": "https://api.openweathermap.org/data/2.5/weather?id=2988507&appid=9d50450a48809637b4862bdcb125927d&units=metric&lang=fr",
+			"time": 41,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Correct information, test passed": true,
+				"City: Paris, FR": true,
+				"Current Temperature: 5.57 degree Celcius": true,
+				"Humidity: 93%": true,
+				"Description: brume": true,
+				"Minimum Temperature: 4.65 degree Celcius": true,
+				"Maximum Temperature: 6.34 degree Celcius": true
+			},
+			"testPassFailCounts": {
+				"Correct information, test passed": {
+					"pass": 1,
+					"fail": 0
+				},
+				"City: Paris, FR": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Current Temperature: 5.57 degree Celcius": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Humidity: 93%": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Description: brume": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Minimum Temperature: 4.65 degree Celcius": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Maximum Temperature: 6.34 degree Celcius": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				41
+			],
+			"allTests": [
+				{
+					"Correct information, test passed": true,
+					"City: Paris, FR": true,
+					"Current Temperature: 5.57 degree Celcius": true,
+					"Humidity: 93%": true,
+					"Description: brume": true,
+					"Minimum Temperature: 4.65 degree Celcius": true,
+					"Maximum Temperature: 6.34 degree Celcius": true
+				}
+			]
+		},
+		{
+			"id": "1cbf11dd-9509-43be-86ef-01232021ce8e",
+			"name": "New York, US",
+			"url": "https://api.openweathermap.org/data/2.5/weather?id=5128581&appid=9d50450a48809637b4862bdcb125927d&units=metric&lang=en",
+			"time": 45,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Correct information, test passed": true,
+				"City: New York, US": true,
+				"Current Temperature: 3.06 degree Celcius": true,
+				"Humidity: 48%": true,
+				"Description: clear sky": true,
+				"Minimum Temperature: 1.53 degree Celcius": true,
+				"Maximum Temperature: 4.31 degree Celcius": true
+			},
+			"testPassFailCounts": {
+				"Correct information, test passed": {
+					"pass": 1,
+					"fail": 0
+				},
+				"City: New York, US": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Current Temperature: 3.06 degree Celcius": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Humidity: 48%": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Description: clear sky": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Minimum Temperature: 1.53 degree Celcius": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Maximum Temperature: 4.31 degree Celcius": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				45
+			],
+			"allTests": [
+				{
+					"Correct information, test passed": true,
+					"City: New York, US": true,
+					"Current Temperature: 3.06 degree Celcius": true,
+					"Humidity: 48%": true,
+					"Description: clear sky": true,
+					"Minimum Temperature: 1.53 degree Celcius": true,
+					"Maximum Temperature: 4.31 degree Celcius": true
+				}
+			]
+		},
+		{
+			"id": "a16466b3-8b10-4222-8c0e-56bb732b0206",
+			"name": "Delhi, IN",
+			"url": "https://api.openweathermap.org/data/2.5/weather?id=2650225&appid=9d50450a48809637b4862bdcb125927d&units=metric&lang=hi",
+			"time": 44,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Incorrect information, test failed": true,
+				"City: एडिनबरा, GB": true,
+				"Current Temperature: 5.12 degree Celcius": true,
+				"Humidity: 91%": true,
+				"Description: टूटे हुए बादल": true,
+				"Minimum Temperature: 2.86 degree Celcius": true,
+				"Maximum Temperature: 6.32 degree Celcius": true
+			},
+			"testPassFailCounts": {
+				"Incorrect information, test failed": {
+					"pass": 1,
+					"fail": 0
+				},
+				"City: एडिनबरा, GB": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Current Temperature: 5.12 degree Celcius": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Humidity: 91%": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Description: टूटे हुए बादल": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Minimum Temperature: 2.86 degree Celcius": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Maximum Temperature: 6.32 degree Celcius": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				44
+			],
+			"allTests": [
+				{
+					"Incorrect information, test failed": true,
+					"City: एडिनबरा, GB": true,
+					"Current Temperature: 5.12 degree Celcius": true,
+					"Humidity: 91%": true,
+					"Description: टूटे हुए बादल": true,
+					"Minimum Temperature: 2.86 degree Celcius": true,
+					"Maximum Temperature: 6.32 degree Celcius": true
+				}
+			]
+		},
+		{
+			"id": "653a298f-a5d3-4400-946b-61754031abf6",
+			"name": "Tokyo, JP",
+			"url": "https://api.openweathermap.org/data/2.5/weather?id=1850147&appid=9d50450a48809637b4862bdcb125927d&units=metric&lang=ja",
+			"time": 38,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Correct information, test passed": true,
+				"City: 東京都, JP": true,
+				"Current Temperature: 7.36 degree Celcius": true,
+				"Humidity: 70%": true,
+				"Description: 曇りがち": true,
+				"Minimum Temperature: 5.99 degree Celcius": true,
+				"Maximum Temperature: 8.64 degree Celcius": true
+			},
+			"testPassFailCounts": {
+				"Correct information, test passed": {
+					"pass": 1,
+					"fail": 0
+				},
+				"City: 東京都, JP": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Current Temperature: 7.36 degree Celcius": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Humidity: 70%": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Description: 曇りがち": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Minimum Temperature: 5.99 degree Celcius": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Maximum Temperature: 8.64 degree Celcius": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				38
+			],
+			"allTests": [
+				{
+					"Correct information, test passed": true,
+					"City: 東京都, JP": true,
+					"Current Temperature: 7.36 degree Celcius": true,
+					"Humidity: 70%": true,
+					"Description: 曇りがち": true,
+					"Minimum Temperature: 5.99 degree Celcius": true,
+					"Maximum Temperature: 8.64 degree Celcius": true
+				}
+			]
+		}
+	],
+	"count": 1,
+	"totalTime": 542,
+	"collection": {
+		"requests": [
+			{
+				"id": "6d54bf61-08bb-4ed8-87c2-c8ebabf83878",
+				"method": "GET"
+			},
+			{
+				"id": "2309368d-b4da-4bae-9d33-4c7fa45eca5f",
+				"method": "GET"
+			},
+			{
+				"id": "1cbf11dd-9509-43be-86ef-01232021ce8e",
+				"method": "GET"
+			},
+			{
+				"id": "a16466b3-8b10-4222-8c0e-56bb732b0206",
+				"method": "GET"
+			},
+			{
+				"id": "653a298f-a5d3-4400-946b-61754031abf6",
+				"method": "GET"
+			}
+		]
+	}
+}
